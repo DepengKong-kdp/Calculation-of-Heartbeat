@@ -1,6 +1,6 @@
 # Implementation of the heartbeat calculation algorithm
 
-This is a `Python` implementation of heartbeat calculation algorithm given the ECG measurement as input. It is used in the work `Ultrathin Stretchable Semiconductor-Hydrogel Interfaces for Wearable and Implantable Bioelectronics.`
+This is a `Python` implementation of heartbeat calculation algorithm given the ECG measurement as input. It is used in the work `Stretchable graphene–hydrogel interfaces for wearable and implantable bioelectronics.`
 
 This implementation can be run on operating systems including Windows, Linux, and MacOS, as long as they have been installed with the dependencies listed in the `requirements` document.
 
